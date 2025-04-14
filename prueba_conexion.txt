@@ -1,0 +1,11 @@
+
+   Destination: www.google.com
+
+[32;1mPing[0m[32;1m Source          [0m[32;1m Address                  [0m [32;1;3mLatency[0m [32;1;3mBufferSize[0m[32;1m Status[0m
+[32;1m    [0m[32;1m                 [0m[32;1m                          [0m [32;1;3m   (ms)[0m [32;1;3m       (B)[0m[32;1m[0m
+[32;1m----[0m [32;1m------          [0m [32;1m-------                  [0m [32;1m-------[0m [32;1m----------[0m [32;1m------[0m
+   1 Mac-mini-de-Efr… 142.250.200.68                  7         32 Success
+   2 Mac-mini-de-Efr… 142.250.200.68                 11         32 Success
+   3 Mac-mini-de-Efr… 142.250.200.68                 10         32 Success
+   4 Mac-mini-de-Efr… 142.250.200.68                 10         32 Success
+
