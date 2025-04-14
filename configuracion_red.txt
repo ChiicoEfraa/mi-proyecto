@@ -1,0 +1,9 @@
+DHCP Configuration
+IP address: 192.168.1.194
+Subnet mask: 255.255.255.0
+Router: 192.168.1.1
+Client ID: 
+IPv6: Automatic
+IPv6 IP address: none
+IPv6 Router: none
+Wi-Fi ID: d0:11:e5:70:5b:85
